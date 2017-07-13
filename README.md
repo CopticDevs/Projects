@@ -1,7 +1,7 @@
-Welcome to CopticDevs
+# Welcome to CopticDevs
 
-# Coptic Projects
+## Coptic Projects
 
 
-# Church Projects
-* ChurchCRM - @DawoudIO
+## Church Projects
+* [ChurchCRM](https://github.com/ChurchCRM/CRM) -  [@DawoudIO](https://github.com/DawoudIO) Lead Dev
